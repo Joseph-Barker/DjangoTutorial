@@ -1,1 +1,3 @@
 # DjangoTutorial
+:admin
+:adminpassword
